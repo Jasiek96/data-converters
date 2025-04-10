@@ -52,7 +52,7 @@ To streamline workflows (e.g., plotting and processing data in OriginPro), these
    python.exe Converter_magnetic_data_PPMS_V2.py
    python.exe Converter_magnetic_data_SQUID_V2.py
    ```
-6. Done! 🎉
+6. Done! 
 
 ---
 
@@ -91,5 +91,6 @@ To streamline workflows (e.g., plotting and processing data in OriginPro), these
 
 ## Notes
 
+- You dont need any additional liberies.
 - Examples of input and output files are provided in their respective directories.
 - Feel free to use, adapt, and improve these tools for your scientific workflows.
